@@ -36,7 +36,7 @@ public class EmployeeDao
     }
 
     //主键自增
-    private static Integer initId = 1000;
+    private static Integer initId = 6;
 
     //增加员工
     public void save(Employee employee)
